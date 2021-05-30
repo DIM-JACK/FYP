@@ -1,0 +1,73 @@
+210527 23:27:39 [Note] Plugin 'FEDERATED' is disabled.
+210527 23:27:39 InnoDB: The InnoDB memory heap is disabled
+210527 23:27:39 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+210527 23:27:39 InnoDB: Compressed tables use zlib 1.2.3
+210527 23:27:39 InnoDB: Initializing buffer pool, size = 128.0M
+210527 23:27:39 InnoDB: Completed initialization of buffer pool
+InnoDB: The first specified data file .\ibdata1 did not exist:
+InnoDB: a new database to be created!
+210527 23:27:40  InnoDB: Setting file .\ibdata1 size to 10 MB
+InnoDB: Database physically writes the file full: wait...
+210527 23:27:40  InnoDB: Log file .\ib_logfile0 did not exist: new to be created
+InnoDB: Setting log file .\ib_logfile0 size to 5 MB
+InnoDB: Database physically writes the file full: wait...
+210527 23:27:40  InnoDB: Log file .\ib_logfile1 did not exist: new to be created
+InnoDB: Setting log file .\ib_logfile1 size to 5 MB
+InnoDB: Database physically writes the file full: wait...
+InnoDB: Doublewrite buffer not found: creating new
+InnoDB: Doublewrite buffer created
+InnoDB: 127 rollback segment(s) active.
+InnoDB: Creating foreign key constraint system tables
+InnoDB: Foreign key constraint system tables created
+210527 23:27:40  InnoDB: Waiting for the background threads to start
+210527 23:27:41 InnoDB: 5.5.57 started; log sequence number 0
+210527 23:27:41 [Note] Server hostname (bind-address): '127.0.0.1'; port: 3306
+210527 23:27:41 [Note]   - '127.0.0.1' resolves to '127.0.0.1';
+210527 23:27:41 [Note] Server socket created on IP: '127.0.0.1'.
+210527 23:27:41 [Note] Event Scheduler: Loaded 0 events
+210527 23:27:41 [Note] C:\Bitnami\PROCES~1.1-0\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.5.57'  socket: ''  port: 3306  MySQL Community Server (GPL)
+210527 23:28:20 [Note] C:\Bitnami\PROCES~1.1-0\mysql\bin\mysqld.exe: Normal shutdown
+
+210527 23:28:20 [Note] Event Scheduler: Purging the queue. 0 events
+210527 23:28:20  InnoDB: Starting shutdown...
+210527 23:28:20  InnoDB: Shutdown completed; log sequence number 1595675
+210527 23:28:20 [Note] C:\Bitnami\PROCES~1.1-0\mysql\bin\mysqld.exe: Shutdown complete
+
+210527 23:29:05 [Note] Plugin 'FEDERATED' is disabled.
+210527 23:29:05 InnoDB: The InnoDB memory heap is disabled
+210527 23:29:05 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+210527 23:29:05 InnoDB: Compressed tables use zlib 1.2.3
+210527 23:29:05 InnoDB: Initializing buffer pool, size = 128.0M
+210527 23:29:05 InnoDB: Completed initialization of buffer pool
+210527 23:29:05 InnoDB: highest supported file format is Barracuda.
+210527 23:29:05  InnoDB: Waiting for the background threads to start
+210527 23:29:06 InnoDB: 5.5.57 started; log sequence number 1595675
+210527 23:29:06 [Note] Server hostname (bind-address): '127.0.0.1'; port: 3306
+210527 23:29:06 [Note]   - '127.0.0.1' resolves to '127.0.0.1';
+210527 23:29:06 [Note] Server socket created on IP: '127.0.0.1'.
+210527 23:29:06 [Note] Event Scheduler: Loaded 0 events
+210527 23:29:06 [Note] C:\Bitnami\PROCES~1.1-0\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.5.57'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120528  0:59:08 [Note] C:\Bitnami\PROCES~1.1-0\mysql\bin\mysqld.exe: Normal shutdown
+
+120528  0:59:08 [Note] Event Scheduler: Purging the queue. 0 events
+120528  0:59:08  InnoDB: Starting shutdown...
+120528  0:59:08  InnoDB: Shutdown completed; log sequence number 8458842
+120528  0:59:08 [Note] C:\Bitnami\PROCES~1.1-0\mysql\bin\mysqld.exe: Shutdown complete
+
+120528  0:59:38 [Note] Plugin 'FEDERATED' is disabled.
+120528  0:59:38 InnoDB: The InnoDB memory heap is disabled
+120528  0:59:39 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+120528  0:59:39 InnoDB: Compressed tables use zlib 1.2.3
+120528  0:59:39 InnoDB: Initializing buffer pool, size = 128.0M
+120528  0:59:39 InnoDB: Completed initialization of buffer pool
+120528  0:59:39 InnoDB: highest supported file format is Barracuda.
+120528  0:59:39  InnoDB: Waiting for the background threads to start
+120528  0:59:40 InnoDB: 5.5.57 started; log sequence number 8458842
+120528  0:59:40 [Note] Server hostname (bind-address): '127.0.0.1'; port: 3306
+120528  0:59:40 [Note]   - '127.0.0.1' resolves to '127.0.0.1';
+120528  0:59:40 [Note] Server socket created on IP: '127.0.0.1'.
+120528  0:59:40 [Note] Event Scheduler: Loaded 0 events
+120528  0:59:40 [Note] C:\Bitnami\PROCES~1.1-0\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.5.57'  socket: ''  port: 3306  MySQL Community Server (GPL)

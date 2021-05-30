@@ -1,0 +1,90 @@
+============ CHANGELOG =============
+
+Version 3.2.1-0      2017-08-02
+* Updated Apache to 2.4.27
+* Updated MySQL to 5.5.57
+* Updated OpenSSL to 1.0.2l
+* Updated PHP to 5.6.31
+* Updated phpMyAdmin to 4.7.2
+* Updated ProcessMaker Community Edition to 3.2.1
+
+Version 3.2-1      2017-07-27
+* Updated phpMyAdmin to 4.7.2
+* Updated Apache to 2.4.27
+* Updated PHP to 5.6.31
+* Fix sudo vulnerability (CVE-2017-1000367)
+* Updated OpenSSL to 1.0.2l
+
+Version 3.2-0      2017-05-16
+* Updated ProcessMaker to 3.2
+* Updated MySQL to 5.6.36
+* Updated phpMyAdmin to 4.7.0
+* Updated OpenSSL to 1.0.2k (Security fixes for CVE-2017-3731, CVE-2017-3731, CVE-2017-3731, and CVE-2016-7055)
+* Updated Apache to 2.4.25
+
+Version 3.1-1      2016-12-01
+* Rename ProcessMaker Open Source to ProcessMaker Community Edition
+* Updated phpMyAdmin to 4.6.5.1
+* Updated PHP to 5.6.28
+* Updated MySQL to 5.5.53
+
+Version 3.1-0      2016-10-06
+* Updated ProcessMaker to 3.1
+* Updated MySQL to 5.5.52
+* Updated PHP to 5.6.26
+
+Version 3.0.1.8-4      2016-09-29
+* Updated OpenSSL to 1.0.2j (Security fix CVE-2016-6304)
+* Updated phpMyAdmin to 4.6.4
+* Patched Off-Path TCP Linux Kernel Vulnerability in Cloud Images and Virtual Machines (Security release CVE-2016-5696)
+
+Version 3.0.1.8-3      2016-07-25
+* Updated PHP to 5.5.38 (Security release: HTTP_PROXY is improperly trusted by some PHP libraries and applications)
+* Blocked Proxy request header in the web server (Security issue CVE-2016-5385, CVE-2016-5387, CVE-2016-1000110)
+* Updated Apache to 2.4.23
+* Updated phpMyAdmin to 4.6.3
+
+Version 3.0.1.8-2      2016-06-30
+* Fixed a bug in Windows related to crashing with PATH longer than 256 characters
+
+Version 3.0.1.8-1      2016-06-25
+* Updated phpMyAdmin to 4.6.2
+* Updated PHP to 5.5.37 (Security release CVE-2015-8874)
+
+Version 3.0.1.8-0      2016-05-12
+* Updated ProcessMaker to 3.0.1.8
+* Updated OpenSSL to 1.0.2h (Security release CVE-2016-2108 CVE-2016-2107)
+* Updated PHP to 5.5.35 (Security release CVE-2016-3074)
+* Updated PageSpeed to 1.9.32.14
+* Updated MySQL to 5.5.49
+* Updated Apache to 2.4.20
+* Updated phpMyAdmin to 4.6.0
+* Updated libpng to 1.5.26 (Security release CVE-2015-8540)
+
+Version 3.0.1.7-2      2016-05-06
+* Updated policy of ImageMagick (disabled TEXT, SHOW, WIN, PLT) (Security CVE-2016-3714)
+
+Version 3.0.1.7-1      2016-05-04
+* Modified policy of ImageMagick (Security CVE-2016-3714)
+
+Version 3.0.1.7-0      2016-01-05
+* Updated ProcessMaker to 3.0.1.7
+* Updated Apache to 2.4.18
+* Updated MySQL to 5.6.28
+* Updated OpenSSL to 1.0.1q
+* Updated phpMyAdmin to 4.5.2
+
+Version 3.0.1.5-1      2015-11-17
+* Updated libpng to 1.5.24 (security issue)
+* Updated Apache to 2.4.17
+
+Version 3.0.1.5-0      2015-10-13
+* Updated ProcessMaker to 3.0.1.5
+
+Version 3.0.1.4-0      2015-09-24
+* Updated ProcessMaker to 3.0.1.4
+* Updated PHP to 5.5.29
+
+Version 3.0.1-0      2015-08-21
+* Initial release, bundles Apache 2.4.16, PHP 5.4.44, MySQL 5.5.45, phpMyAdmin
+4.4.13.1 and ProcessMaker Open Source 3.0.1 GA

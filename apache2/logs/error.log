@@ -1,0 +1,47 @@
+[Thu May 27 23:29:16.307963 2021] [ssl:warn] [pid 1192:tid 540] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Thu May 27 23:29:16.510870 2021] [ssl:warn] [pid 1192:tid 540] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Thu May 27 23:29:16.550872 2021] [mpm_winnt:notice] [pid 1192:tid 540] AH00455: Apache/2.4.27 (Win64) OpenSSL/1.0.2l PHP/5.6.31 configured -- resuming normal operations
+[Thu May 27 23:29:16.550872 2021] [mpm_winnt:notice] [pid 1192:tid 540] AH00456: Apache Lounge VC11 Server built: Jul 10 2017 14:15:02
+[Thu May 27 23:29:16.550872 2021] [core:notice] [pid 1192:tid 540] AH00094: Command line: 'C:\\Bitnami\\PROCES~1.1-0\\apache2\\bin\\httpd.exe -d C:/Bitnami/processmaker-3.2.1-0/apache2 -f C:\\Bitnami\\PROCES~1.1-0\\apache2\\conf\\httpd.conf'
+[Thu May 27 23:29:16.565872 2021] [mpm_winnt:notice] [pid 1192:tid 540] AH00418: Parent: Created child process 14252
+[Thu May 27 23:29:17.125517 2021] [ssl:warn] [pid 14252:tid 452] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Thu May 27 23:29:17.271454 2021] [ssl:warn] [pid 14252:tid 452] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Thu May 27 23:29:17.297161 2021] [mpm_winnt:notice] [pid 14252:tid 452] AH00354: Child: Starting 64 worker threads.
+[Thu May 27 23:29:32.409189 2021] [mpm_winnt:notice] [pid 1192:tid 540] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu May 27 23:29:34.421085 2021] [mpm_winnt:notice] [pid 14252:tid 452] AH00364: Child: All worker threads have exited.
+[Thu May 27 23:29:34.454381 2021] [mpm_winnt:notice] [pid 1192:tid 540] AH00430: Parent: Child process 14252 exited successfully.
+[Thu May 27 23:29:36.475736 2021] [ssl:warn] [pid 12800:tid 548] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Thu May 27 23:29:36.668001 2021] [ssl:warn] [pid 12800:tid 548] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Thu May 27 23:29:36.707200 2021] [mpm_winnt:notice] [pid 12800:tid 548] AH00455: Apache/2.4.27 (Win64) OpenSSL/1.0.2l PHP/5.6.31 configured -- resuming normal operations
+[Thu May 27 23:29:36.707200 2021] [mpm_winnt:notice] [pid 12800:tid 548] AH00456: Apache Lounge VC11 Server built: Jul 10 2017 14:15:02
+[Thu May 27 23:29:36.707200 2021] [core:notice] [pid 12800:tid 548] AH00094: Command line: 'C:\\Bitnami\\PROCES~1.1-0\\apache2\\bin\\httpd.exe -d C:/Bitnami/processmaker-3.2.1-0/apache2 -f C:\\Bitnami\\PROCES~1.1-0\\apache2\\conf\\httpd.conf'
+[Thu May 27 23:29:36.716141 2021] [mpm_winnt:notice] [pid 12800:tid 548] AH00418: Parent: Created child process 5148
+[Thu May 27 23:29:37.261733 2021] [ssl:warn] [pid 5148:tid 468] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Thu May 27 23:29:37.469593 2021] [ssl:warn] [pid 5148:tid 468] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Thu May 27 23:29:37.501105 2021] [mpm_winnt:notice] [pid 5148:tid 468] AH00354: Child: Starting 1000 worker threads.
+[Thu May 27 23:29:49.535626 2021] [mpm_winnt:notice] [pid 12800:tid 548] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu May 27 23:29:51.544076 2021] [mpm_winnt:notice] [pid 5148:tid 468] AH00364: Child: All worker threads have exited.
+[Thu May 27 23:29:51.590342 2021] [mpm_winnt:notice] [pid 12800:tid 548] AH00430: Parent: Child process 5148 exited successfully.
+[Thu May 27 23:30:29.105276 2021] [ssl:warn] [pid 16068:tid 564] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Thu May 27 23:30:29.332795 2021] [ssl:warn] [pid 16068:tid 564] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Thu May 27 23:30:29.360514 2021] [mpm_winnt:notice] [pid 16068:tid 564] AH00455: Apache/2.4.27 (Win64) OpenSSL/1.0.2l PHP/5.6.31 configured -- resuming normal operations
+[Thu May 27 23:30:29.360514 2021] [mpm_winnt:notice] [pid 16068:tid 564] AH00456: Apache Lounge VC11 Server built: Jul 10 2017 14:15:02
+[Thu May 27 23:30:29.360514 2021] [core:notice] [pid 16068:tid 564] AH00094: Command line: 'C:\\Bitnami\\PROCES~1.1-0\\apache2\\bin\\httpd.exe -d C:/Bitnami/processmaker-3.2.1-0/apache2 -f C:\\Bitnami\\PROCES~1.1-0\\apache2\\conf\\httpd.conf'
+[Thu May 27 23:30:29.360514 2021] [mpm_winnt:notice] [pid 16068:tid 564] AH00418: Parent: Created child process 16100
+[Thu May 27 23:30:29.946500 2021] [ssl:warn] [pid 16100:tid 472] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Thu May 27 23:30:30.144269 2021] [ssl:warn] [pid 16100:tid 472] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Thu May 27 23:30:30.184808 2021] [mpm_winnt:notice] [pid 16100:tid 472] AH00354: Child: Starting 1000 worker threads.
+[Mon May 28 00:59:08.136187 2012] [mpm_winnt:notice] [pid 16068:tid 564] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon May 28 00:59:10.149277 2012] [mpm_winnt:notice] [pid 16100:tid 472] AH00364: Child: All worker threads have exited.
+[Mon May 28 00:59:10.180537 2012] [mpm_winnt:notice] [pid 16068:tid 564] AH00430: Parent: Child process 16100 exited successfully.
+[Mon May 28 00:59:40.209978 2012] [ssl:warn] [pid 4312:tid 592] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon May 28 00:59:40.401149 2012] [ssl:warn] [pid 4312:tid 592] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon May 28 00:59:40.491564 2012] [mpm_winnt:notice] [pid 4312:tid 592] AH00455: Apache/2.4.27 (Win64) OpenSSL/1.0.2l PHP/5.6.31 configured -- resuming normal operations
+[Mon May 28 00:59:40.491564 2012] [mpm_winnt:notice] [pid 4312:tid 592] AH00456: Apache Lounge VC11 Server built: Jul 10 2017 14:15:02
+[Mon May 28 00:59:40.499588 2012] [core:notice] [pid 4312:tid 592] AH00094: Command line: 'C:\\Bitnami\\PROCES~1.1-0\\apache2\\bin\\httpd.exe -d C:/Bitnami/processmaker-3.2.1-0/apache2 -f C:\\Bitnami\\PROCES~1.1-0\\apache2\\conf\\httpd.conf'
+[Mon May 28 00:59:40.677050 2012] [mpm_winnt:notice] [pid 4312:tid 592] AH00418: Parent: Created child process 7360
+[Mon May 28 00:59:41.231438 2012] [ssl:warn] [pid 7360:tid 508] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon May 28 00:59:41.325169 2012] [ssl:warn] [pid 7360:tid 508] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Mon May 28 00:59:41.347299 2012] [mpm_winnt:notice] [pid 7360:tid 508] AH00354: Child: Starting 1000 worker threads.
+[Fri May 28 17:59:57.833957 2021] [:error] [pid 7360:tid 8776] [client ::1:62642] PHP Notice:  Undefined index: HTTP_REFERER in C:\\Bitnami\\processmaker-3.2.1-0\\apps\\processmaker\\htdocs\\workflow\\engine\\methods\\login\\authentication.php on line 30
+[Fri May 28 18:33:32.539441 2021] [access_compat:error] [pid 7360:tid 8720] [client 127.0.0.1:63295] AH01797: client denied by server configuration: C:/Bitnami/processmaker-3.2.1-0/apps/processmaker/htdocs/workflow/public_html/password.php
