@@ -13,3 +13,10 @@
   define ('DB_REPORT_NAME', 'bitnami_pm' );
   define ('DB_REPORT_USER', 'bn_processmaker' );
   define ('DB_REPORT_PASS', 'ca1d675af1' );
+define('PPP_MINIMUM_LENGTH', 8);
+define('PPP_MAXIMUM_LENGTH', 20);
+define('PPP_NUMERICAL_CHARACTER_REQUIRED', 1);
+define('PPP_UPPERCASE_CHARACTER_REQUIRED', 1);
+define('PPP_SPECIAL_CHARACTER_REQUIRED', 1);
+define('PPP_EXPIRATION_IN', 90);
+define('PPP_FAILED_LOGINS', 3);
